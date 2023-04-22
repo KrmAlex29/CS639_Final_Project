@@ -1,6 +1,7 @@
 # CS639_Final_Project
 Pace University Mobile Application Development Final Project <br><br>
 # PaceFlex
+<img src="https://i.imgur.com/7iEpmPq.png" style="width:400px;height:400px;" />
 
 ## Description
 
@@ -12,4 +13,5 @@ Data from Everfi shows that over half of college students are unable to manage t
 -	Student-specific Features
 -	Spending Limit Notifications
 
-Idea proposal https://docs.google.com/document/d/1xZEOjYTmsf_xQQY8-Do1A9e84M3zAg7AmocohLPcV6Y/edit?usp=sharing 
+## Idea proposal
+<a href="https://docs.google.com/document/d/1xZEOjYTmsf_xQQY8-Do1A9e84M3zAg7AmocohLPcV6Y/edit?usp=sharing)">PaceFlex Idea proposal </a>
