@@ -12,4 +12,4 @@ Data from Everfi shows that over half of college students are unable to manage t
 -	Student-specific Features
 -	Spending Limit Notifications
 
-Idea pro https://docs.google.com/document/d/1xZEOjYTmsf_xQQY8-Do1A9e84M3zAg7AmocohLPcV6Y/edit?usp=sharing 
+Idea proposal https://docs.google.com/document/d/1xZEOjYTmsf_xQQY8-Do1A9e84M3zAg7AmocohLPcV6Y/edit?usp=sharing 
